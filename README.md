@@ -20,3 +20,7 @@ I enjoy working across the data analytics lifecycle — from data cleaning and t
 I build end-to-end analytics projects that combine SQL, Python, Excel, and Power BI to solve real-world business problems. 
            I'm continuously improving my analytical, technical, and communication skills 
            while building projects that demonstrate how data can support better business decisions.**
+
+### Linkedin-https://www.linkedin.com/in/susmita-subudhi-4804a1256/
+           
+           
