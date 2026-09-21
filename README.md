@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a aspiring Data Analyst passionate about turning raw data into meaningful insights and actionable business solutions.
-I enjoy working across the data analytics lifecycle — from data cleaning and transformation to analysis, data modelling, visualization, and communicating insights through interactive dashboards and reports.I build end-to-end analytics projects that combine SQL, Python, Excel, and Power BI to solve real-world business problems. My projects cover areas such as sales, customer analysis, HR analytics, finance, e-commerce, churn, and business performance.I'm continuously improving my analytical, technical, and communication skills while building projects that demonstrate how data can support better business decisions.
+**I'm a aspiring Data Analyst passionate about turning raw data into meaningful insights and actionable business solutions.
+I enjoy working across the data analytics lifecycle — from data cleaning and transformation to analysis, data modelling, visualization, and communicating insights through interactive dashboards and reports.
+I build end-to-end analytics projects that combine SQL, Python, Excel, and Power BI to solve real-world business problems. My projects cover areas such as sales, customer analysis, HR analytics, finance, e-commerce, churn, and business performance.I'm continuously improving my analytical, technical, and communication skills while building projects that demonstrate how data can support better business decisions.**
