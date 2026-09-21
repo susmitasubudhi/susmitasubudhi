@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 I enjoy working across the data analytics lifecycle — from data cleaning and transformation to 
            analysis, data modelling, visualization, and communicating insights through interactive dashboards and reports.
 I build end-to-end analytics projects that combine SQL, Python, Excel, and Power BI to solve real-world business problems. 
-          I'm continuously improving my analytical, technical, and communication skills 
+           I'm continuously improving my analytical, technical, and communication skills 
            while building projects that demonstrate how data can support better business decisions.**
