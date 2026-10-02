@@ -30,8 +30,7 @@ I build end-to-end analytics projects that combine SQL, Python, Excel, Power BI,
 🗄️ Databases: SQL Server, MySQL
 ⚙️ Tools & Platforms: Jupyter Notebook, VS Code, Kaggle
 ### Tech Stack
-https://camo.githubusercontent.com/a2a46412f7f21ca045b370c9c168a09d66867a83eeee1410432616701b81cc1b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f667425323053514c2532305365727665722d4343323932373f7374796c653d666c6174266c6f676f3d6d6963726f736f667425323073716c253230736572766572266c6f676f436f6c6f723d7768697465
-https://camo.githubusercontent.com/ce6aa7c63d404b7bab4a73b9094105b05045ebd79d83223a82010b04c87ec6ad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d3434373941312e7376673f7374796c653d666c6174266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465
-https://camo.githubusercontent.com/89b79f95d79533694fee7f4b88383440e672f067b04dd50fc82c41bc31f0388a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f7765725f62692d4632433831313f7374796c653d666c6174266c6f676f3d706f7765726269266c6f676f436f6c6f723d626c61636b
+<img width="127" height="20" alt="MSsql" src="https://github.com/user-attachments/assets/c9ed89f6-93c5-4beb-86ec-3071dbdd9238" />
+
            
-           
+           <svg xmlns="http://www.w3.org/2000/svg" width="127" height="20" role="img" aria-label="Microsoft SQL Server"><title>Microsoft SQL Server</title><filter id="blur"><feGaussianBlur stdDeviation="16"/></filter><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="127" height="20" rx="3"/></clipPath><g clip-path="url(#r)"><rect width="0" height="20" fill="#cc2927"/><rect x="0" width="127" height="20" fill="#cc2927"/><rect width="127" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><g transform="scale(.1)"><g aria-hidden="true" fill="#010101"><text x="635" y="150" fill-opacity=".8" filter="url(#blur)" textLength="1170">Microsoft SQL Server</text><text x="635" y="150" fill-opacity=".3" textLength="1170">Microsoft SQL Server</text></g><text x="635" y="140" textLength="1170">Microsoft SQL Server</text></g></g></svg>
