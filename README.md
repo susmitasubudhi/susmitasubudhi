@@ -1,3 +1,4 @@
+<img width="61" height="20" alt="Mysql" src="https://github.com/user-attachments/assets/5fbac835-5ecd-400a-ae83-1bc95ba606f0" />
 ## Hi there 👋 I am Susmita Subudhi
 
 <!--
@@ -31,6 +32,6 @@ I build end-to-end analytics projects that combine SQL, Python, Excel, Power BI,
 ⚙️ Tools & Platforms: Jupyter Notebook, VS Code, Kaggle
 ### Tech Stack
 <img width="127" height="20" alt="MSsql" src="https://github.com/user-attachments/assets/c9ed89f6-93c5-4beb-86ec-3071dbdd9238" />
+<img width="61" height="20" alt="Mysql" src="https://github.com/user-attachments/assets/afd5048f-fd24-4a21-9ea3-f92197c7ea82" />
 
-           
-        
+          
