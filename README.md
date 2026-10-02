@@ -22,7 +22,7 @@ I build end-to-end analytics projects that combine SQL, Python, Excel, Power BI,
            I'm continuously improving my analytical, technical, and communication skills 
            while building projects that demonstrate how data can support better business decisions.**
 
-### Linkedin-https://www.linkedin.com/in/susmita-subudhi-4804a1256/
+#### Linkedin-https://www.linkedin.com/in/susmita-subudhi-4804a1256/
 
  ### Tech Stack & Tools
 💻 Languages: Python, SQL
