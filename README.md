@@ -25,11 +25,11 @@ I build end-to-end analytics projects that combine SQL, Python, Excel, Power BI,
 #### Linkedin-https://www.linkedin.com/in/susmita-subudhi-4804a1256/
 
  ### Tech Stack & Tools
-💻 Languages: Python, SQL
-📊 Data Visualization: Excel, Power BI, Matplotlib, Seaborn
-📂 Data Handling: Excel, Power Query, Pandas, NumPy
-🗄️ Databases: SQL Server, MySQL
-⚙️ Tools & Platforms: Jupyter Notebook, VS Code, Kaggle
+  - 💻 Languages: Python, SQL
+  - 📊 Data Visualization: Excel, Power BI, Matplotlib, Seaborn
+  - 📂 Data Handling: Excel, Power Query, Pandas, NumPy
+  - 🗄️ Databases: SQL Server, MySQL
+  - ⚙️ Tools & Platforms: Jupyter Notebook, VS Code, Kaggle
 ### Tech Stack
 <img width="127" height="20" alt="MSsql" src="https://github.com/user-attachments/assets/c9ed89f6-93c5-4beb-86ec-3071dbdd9238" />
 <img width="61" height="20" alt="Mysql" src="https://github.com/user-attachments/assets/afd5048f-fd24-4a21-9ea3-f92197c7ea82" />
